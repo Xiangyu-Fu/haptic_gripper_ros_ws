@@ -1,4 +1,4 @@
-# knob_kuka_ws
+# Haptic Gripper ROS Workspace
 ## Msg generation
 
 rosrun rosserial_arduino make_libraries.py /home/fu/repos/fortiss_knob/lib
